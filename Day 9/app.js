@@ -1,5 +1,3 @@
-// const axios = require('axios'); // import
-
 async function getAstroData() {
     const URL = "http://api.open-notify.org/astros.json";
     const response = await axios.get(URL);
