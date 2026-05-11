@@ -1,0 +1,1 @@
+to run ts file :- npx ts-node "Day 9/index.ts" or npx tsx index.ts
